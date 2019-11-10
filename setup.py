@@ -13,7 +13,7 @@ setup(
     url="https://github.com/erm/grevillea",
     description="Google Cloud Functions support for ASGI",
     long_description=get_long_description(),
-    python_requires="3.7",
+    python_requires="~=3.7",
     package_data={"grevillea": ["py.typed"]},
     long_description_content_type="text/markdown",
     author="Jordan Eremieff",
