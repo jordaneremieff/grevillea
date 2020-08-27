@@ -1,8 +1,8 @@
 # grevillea
 
-***Work in Progress***
+*Unmaintained*: If you would like to see this properly supported, please make a comment on the issue here https://github.com/jordaneremieff/mangum/issues/86.
 
-Google Cloud Functions support for ASGI
+Google Cloud Functions support for ASGI.
 
 ## Requirements
 
